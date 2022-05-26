@@ -42,7 +42,7 @@
 
 .profile {
     border: 20cm;
-    margin-left: 450px;
+    margin-left: 400px;
     display: grid;
     grid-template-columns: 220px 1fr;
 }
